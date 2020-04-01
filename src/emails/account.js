@@ -17,7 +17,7 @@ const sendWelcomeEmail = (email, name) => {
 const sendCancellationEmail = (email, name) => {
     // sgMail.send({
     //     to: email,
-    //     from: myMail,
+    //     from: myMail,s
     //     subject: "Sorry to see you go!",
     //     text: `Goodbye ${name}! I am sorry to see you leave. Please do let me know if I can do anything to you.`
     // })
